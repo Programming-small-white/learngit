@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 Hi,this is my stupid girl.
+=======
+Hi,my stupid boy.
+>>>>>>> 2b5638e3fbd5ccada9766b5e63d0a9ad153ef1df
+Hi,this is my stupid girl.
+Hi,my stupid boy.
